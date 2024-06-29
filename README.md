@@ -1,6 +1,6 @@
 # Frontend_dump
 
-This is a dump repo for all my frontend plans. Don't spy even though it is public😂😂😂
+This is a dump repo for all my front-end plans. Don't spy even though it is public😂😂😂. All these things were spat out by ChatGPT so you know the drill but anyway let's go and grind
 
 # Frontend Plans
 
